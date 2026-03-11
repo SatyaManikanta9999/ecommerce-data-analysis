@@ -157,7 +157,7 @@ ecommerce-data-analysis
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/ecommerce-data-analysis.git
+https://github.com/SatyaManikanta9999/ecommerce-data-analysis
 ```
 
 2. Open the notebook
